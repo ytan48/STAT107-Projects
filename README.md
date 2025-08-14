@@ -57,4 +57,5 @@ Conducted data analysis on a dataset of major companies’ stocks, including pri
 ---
 
 *Course completed: [Fall 2024] at the University of Illinois at Urbana-Champaign* 
+
 Course Website: https://discovery.cs.illinois.edu/microproject/
