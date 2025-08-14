@@ -29,12 +29,14 @@ The `microprojects/` directory contains smaller assignments that focus on specif
 The `projects/` directory contains larger, comprehensive assignments that integrate multiple data science concepts:
 
 - #### **Project 1: Mosaic Project**
-Created a photo mosaic application based on the code and instructions provided by the instructor. Implemented:
+  Created a photo mosaic application based on the code and instructions provided by the instructor. Implemented:
+  
   - Color analysis and RGB value extraction from images
   - Average color calculation for image regions
   
 - #### **Project 2: Stock Analysis & Undervalued Stock Detection**
-Conducted data analysis on a dataset of major companies’ stocks, including price, earnings, market cap, and other financial metrics. Applied statistical and machine learning techniques to identify potentially undervalued stocks. Implemented:
+  Conducted data analysis on a dataset of major companies’ stocks, including price, earnings, market cap, and other financial metrics. Applied statistical and machine learning techniques to identify potentially undervalued stocks. Implemented:
+ 
   - Data Exploration & Cleaning – Loaded and prepared the stock dataset from Kaggle for analysis.
   - Descriptive Statistics – Calculated mean, median, standard deviation, range, and interquartile range for price, earnings/share, and market cap to assess financial health.
   - Data Visualization – Plotted the top companies by market cap and the cheapest stocks by P/E ratio to highlight potential investment opportunities.
@@ -45,7 +47,7 @@ Conducted data analysis on a dataset of major companies’ stocks, including pri
 ## Tools and Technologies
 
 - **Programming Language**: Python
-- **Key Libraries**: pandas, matplotlib, numpy, PIL (Pillow), seaborn
+- **Key Libraries**: pandas, matplotlib, numpy, seaborn
 - **Development Environment**: Jupyter Notebooks
 
 ## How to Navigate This Repository
