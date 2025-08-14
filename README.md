@@ -33,6 +33,7 @@ The `Projects/` directory contains larger, comprehensive assignments that integr
   
   - Color analysis and RGB value extraction from images
   - Average color calculation for image regions
+  - Generate a mosaic photo of the Black Myth: Wukong Kang-Jin Loong
   
 - #### **Project 2: Stock Analysis & Undervalued Stock Detection**
   Conducted data analysis on a dataset of major companies’ stocks, including price, earnings, market cap, and other financial metrics. Applied statistical and machine learning techniques to identify potentially undervalued stocks. Implemented:
@@ -52,10 +53,10 @@ The `Projects/` directory contains larger, comprehensive assignments that integr
 
 ## How to Navigate This Repository
 
-1. Each assignment is contained in its own directory with descriptive naming
+1. Each assignment is contained in its directory with descriptive naming
 2. Jupyter notebooks (`.ipynb` files) contain the main analysis and code
 3. Data files are included where permitted by course guidelines
-4. Comments and markdown cells provide context and explanations throughout
+4. Markdown cells provide context
 
 ## Academic Integrity
 
