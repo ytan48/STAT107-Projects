@@ -6,7 +6,7 @@ This repository contains my completed assignments and projects from **STAT107: D
 
 ### Microprojects
 
-The `microprojects/` directory contains smaller assignments that focus on specific data science concepts:
+The `Microprojects/` directory contains smaller assignments that focus on specific data science concepts:
 
 - **MicroProject: FIFA World Cup**
 - **AI versus Human: AI Response Analysis**
@@ -26,7 +26,7 @@ The `microprojects/` directory contains smaller assignments that focus on specif
 *(For detailed descriptions of all Data Science Microprojects from STAT107, visit Course Website: https://discovery.cs.illinois.edu/microproject/)*
 
 ### Projects
-The `projects/` directory contains larger, comprehensive assignments that integrate multiple data science concepts:
+The `Projects/` directory contains larger, comprehensive assignments that integrate multiple data science concepts:
 
 - #### **Project 1: Mosaic Project**
   Created a photo mosaic application based on the code and instructions provided by the instructor. Implemented:
