@@ -1,6 +1,6 @@
-# UIUC STAT107: Data Science Discovery
+# UIUC STAT107 Microprojects
 
-This repository contains my completed assignments and projects from **STAT107: Data Science Discovery** at the University of Illinois at Urbana-Champaign.
+This repository contains my completed assignments and projects from **STAT107: Data Science Discovery** at the University of Illinois at Urbana-Champaign, Fall 2024.
 
 ## Repository Structure
 
@@ -27,11 +27,10 @@ The `microprojects/` directory contains smaller assignments that focus on specif
 The `projects/` directory contains larger, comprehensive assignments that integrate multiple data science concepts:
 
 - #### **Project 1: Mosaic Project**
-Created a photo mosaic application that transforms a base image into a mosaic using smaller tile images. Implemented image processing algorithms including:
+Created a photo mosaic application based on the code and instructions provided by the instructor. Implemented:
   - Color analysis and RGB value extraction from images
   - Average color calculation for image regions
-  - Distance-based matching algorithm to find optimal tile replacements
-  - Image subset processing and tile placement optimization
+  
 - #### **Project 2: Stock Analysis & Undervalued Stock Detection**
 Conducted data analysis on a dataset of major companies’ stocks, including price, earnings, market cap, and other financial metrics. Applied statistical and machine learning techniques to identify potentially undervalued stocks. Implemented:
   - Data Exploration & Cleaning – Loaded and prepared stock dataset from Kaggle for analysis.
