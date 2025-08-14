@@ -54,10 +54,7 @@ Conducted data analysis on a dataset of major companies’ stocks, including pri
 3. Data files are included where permitted by course guidelines
 4. Comments and markdown cells provide context and explanations throughout
 
-## Academic Integrity
-
-This repository serves as a portfolio of my completed coursework. All work contained here represents my own efforts in accordance with the University of Illinois academic integrity policies.
-
 ---
 
-*Course completed: [Fall 2024] at the University of Illinois at Urbana-Champaign*
+*Course completed: [Fall 2024] at the University of Illinois at Urbana-Champaign* 
+Course Website: https://discovery.cs.illinois.edu/microproject/
